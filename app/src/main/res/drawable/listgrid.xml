@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NAME:Connor Frew  -->
+<!--Student Number: S1705548 -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:startColor="#49C54E"
+        android:centerColor="#FFE53B"
+        android:endColor="#ED0E0E"
+        android:angle="-270" />
+</shape>
